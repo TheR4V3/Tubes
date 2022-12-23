@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1671702820 source:d:\code\tubes\kereta.cpp
+	"kereta.h"
+
+1671702609 source:d:\code\tubes\main.cpp
+	<iostream>
+	"kereta.h"
+	"penumpang.h"
+
+1671801769 source:d:\code\tubes\penumpang.cpp
+	"penumpang.h"
+
+1671701794 d:\code\tubes\penumpang.h
+	<iostream>
+
+1671801957 d:\code\tubes\kereta.h
+	<iostream>
+	"penumpang.h"
+
