@@ -7,10 +7,15 @@ parent list berisi child list
 Parent list menunjuk child list
 
 Fungsionalitas (100 Poin untuk nilai kelompok) : 
+
 Insert data parent dari depan/belakang (5)
+
 Show all data parent (5)
+
 Menghapus data parent dan childnya (5)
+
 Mencari data parent (5)
+
 Insert data child (10)
 
 Menghubungkan data parent ke data child (10)
