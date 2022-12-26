@@ -1,4 +1,6 @@
 # Tubes
+![image](https://user-images.githubusercontent.com/91171858/209531071-b4d0a725-84c3-4187-832a-6604f6bf34b5.png)
+
 Aturan struktur data : 
 Menggunakan dua jenis list yang berbeda. Minimal menggunakan salah satu dari Double Circular atau Single circular, sisanya bisa dari jenis yang berbeda.
 
